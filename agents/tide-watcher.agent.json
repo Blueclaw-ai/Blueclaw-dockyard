@@ -1,0 +1,6 @@
+{
+  "id": "tide-watcher",
+  "name": "Tide Watcher",
+  "skills": ["blueclaw-core"],
+  "channels": ["stdout", "webhook"]
+}

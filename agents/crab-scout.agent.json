@@ -1,0 +1,6 @@
+{
+  "id": "crab-scout",
+  "name": "Crab Scout",
+  "skills": ["blueclaw-core"],
+  "channels": ["stdout"]
+}
